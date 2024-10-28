@@ -38,7 +38,7 @@
 ## About Me
 
 - 🚀 **Junior Frontend Developer** on the road to becoming a web wizard.
-- 🧑‍💻 Currently, I work as a **Frontend Developer** at [4i Tech](https://4itech.com.tw).
+- 🧑‍💻 Currently, I work as a **Frontend Developer** at [4i Tech](https://4itech.io).
 - 🎓 I'm studying **Web Development** to get my code into every corner of the internet.
 - 🛠 I'm passionate about **electronics** and enjoy tinkering with **Arduino**.
 - 💡 Working on **Unity games** that make people smile (or rage, depending on their patience).
