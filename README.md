@@ -37,9 +37,8 @@
 <!-- Sección de lo que hago y en lo que estoy interesado -->
 ## About Me
 
-- 🚀 **Junior Frontend Developer** on the road to becoming a web wizard.
-- 🧑‍💻 Currently, I work as a **Frontend Developer** at [4i Tech](https://4itech.io).
-- 🎓 I'm studying **Web Development** to get my code into every corner of the internet.
+- 🚀 **Game developer & Game designer** on the road to becoming a game wizard.
+- 🧑‍💻 Currently, I work as a **Technical game designer** at Ahimsa Softworks.
 - 🛠 I'm passionate about **electronics** and enjoy tinkering with **Arduino**.
 - 💡 Working on **Unity games** that make people smile (or rage, depending on their patience).
 - 🙃 Open to contributing to **open-source projects** and collaborating with the community.
@@ -56,9 +55,9 @@
   <a href="https://github.com/GorkaGallardo" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <!-- HackerRank: Mostrar habilidades en algoritmos y problemas -->
-  <a href="https://www.hackerrank.com/profile/gallardo_ahimsa" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  <!-- Itch.io: Mostrar portfolio -->
+  <a href="https://glaegard.itch.io" target="_blank">
+    <img src="![image](https://github.com/user-attachments/assets/8eeed907-d063-4884-afef-712200e7f6f9)" alt="Itch.io" />
   </a>
 </p>
 
@@ -73,7 +72,7 @@
 
 <!-- Mensaje final -->
 <p align="center">
-  <i>Code, break, learn, repeat. That's the cycle I thrive in!</i>
+  <i>Design, Code, Break, Re-Design, Repeat. That's the cycle I thrive in!</i>
 </p>
 
 <!-- Imagen de despedida divertida -->
